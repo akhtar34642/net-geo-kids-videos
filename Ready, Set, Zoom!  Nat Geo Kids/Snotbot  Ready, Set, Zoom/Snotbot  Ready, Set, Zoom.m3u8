@@ -1,0 +1,31 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:13
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:10.677333,
+Snotbot  Ready, Set, Zoom0.ts
+#EXTINF:10.677333,
+Snotbot  Ready, Set, Zoom1.ts
+#EXTINF:10.610600,
+Snotbot  Ready, Set, Zoom2.ts
+#EXTINF:9.175833,
+Snotbot  Ready, Set, Zoom3.ts
+#EXTINF:10.176833,
+Snotbot  Ready, Set, Zoom4.ts
+#EXTINF:8.942267,
+Snotbot  Ready, Set, Zoom5.ts
+#EXTINF:13.013000,
+Snotbot  Ready, Set, Zoom6.ts
+#EXTINF:6.806800,
+Snotbot  Ready, Set, Zoom7.ts
+#EXTINF:10.677333,
+Snotbot  Ready, Set, Zoom8.ts
+#EXTINF:10.677333,
+Snotbot  Ready, Set, Zoom9.ts
+#EXTINF:9.943267,
+Snotbot  Ready, Set, Zoom10.ts
+#EXTINF:11.411400,
+Snotbot  Ready, Set, Zoom11.ts
+#EXTINF:5.305300,
+Snotbot  Ready, Set, Zoom12.ts
+#EXT-X-ENDLIST
