@@ -1,0 +1,17 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:13
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:10.200000,
+Learn About Baby Birds0.ts
+#EXTINF:10.033333,
+Learn About Baby Birds1.ts
+#EXTINF:10.366667,
+Learn About Baby Birds2.ts
+#EXTINF:10.200000,
+Learn About Baby Birds3.ts
+#EXTINF:10.200000,
+Learn About Baby Birds4.ts
+#EXTINF:12.600000,
+Learn About Baby Birds5.ts
+#EXT-X-ENDLIST

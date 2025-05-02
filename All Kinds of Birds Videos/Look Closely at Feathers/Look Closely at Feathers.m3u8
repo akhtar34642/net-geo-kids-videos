@@ -1,0 +1,17 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:11
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:10.200000,
+Look Closely at Feathers0.ts
+#EXTINF:10.200000,
+Look Closely at Feathers1.ts
+#EXTINF:10.200000,
+Look Closely at Feathers2.ts
+#EXTINF:10.200000,
+Look Closely at Feathers3.ts
+#EXTINF:10.200000,
+Look Closely at Feathers4.ts
+#EXTINF:10.966667,
+Look Closely at Feathers5.ts
+#EXT-X-ENDLIST

@@ -1,0 +1,15 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:10.200000,
+Find Out How Birds Fly0.ts
+#EXTINF:10.200000,
+Find Out How Birds Fly1.ts
+#EXTINF:10.200000,
+Find Out How Birds Fly2.ts
+#EXTINF:10.200000,
+Find Out How Birds Fly3.ts
+#EXTINF:9.500000,
+Find Out How Birds Fly4.ts
+#EXT-X-ENDLIST

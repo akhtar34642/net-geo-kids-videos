@@ -1,0 +1,23 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:11
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:10.200000,
+Listen for Wacky Bird Sounds0.ts
+#EXTINF:10.200000,
+Listen for Wacky Bird Sounds1.ts
+#EXTINF:10.200000,
+Listen for Wacky Bird Sounds2.ts
+#EXTINF:9.700000,
+Listen for Wacky Bird Sounds3.ts
+#EXTINF:10.700000,
+Listen for Wacky Bird Sounds4.ts
+#EXTINF:10.200000,
+Listen for Wacky Bird Sounds5.ts
+#EXTINF:10.200000,
+Listen for Wacky Bird Sounds6.ts
+#EXTINF:10.200000,
+Listen for Wacky Bird Sounds7.ts
+#EXTINF:5.300000,
+Listen for Wacky Bird Sounds8.ts
+#EXT-X-ENDLIST
