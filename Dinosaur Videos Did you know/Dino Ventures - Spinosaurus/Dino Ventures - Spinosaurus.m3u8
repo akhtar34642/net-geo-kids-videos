@@ -1,0 +1,19 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:13
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:13.400000,
+Dino Ventures - Spinosaurus0.ts
+#EXTINF:9.960000,
+Dino Ventures - Spinosaurus1.ts
+#EXTINF:8.320000,
+Dino Ventures - Spinosaurus2.ts
+#EXTINF:12.640000,
+Dino Ventures - Spinosaurus3.ts
+#EXTINF:7.000000,
+Dino Ventures - Spinosaurus4.ts
+#EXTINF:12.000000,
+Dino Ventures - Spinosaurus5.ts
+#EXTINF:11.640000,
+Dino Ventures - Spinosaurus6.ts
+#EXT-X-ENDLIST
