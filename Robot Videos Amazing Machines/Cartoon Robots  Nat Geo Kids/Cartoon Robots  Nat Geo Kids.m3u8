@@ -1,0 +1,15 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:10.093422,
+Cartoon Robots  Nat Geo Kids0.ts
+#EXTINF:10.093411,
+Cartoon Robots  Nat Geo Kids1.ts
+#EXTINF:10.093422,
+Cartoon Robots  Nat Geo Kids2.ts
+#EXTINF:10.093411,
+Cartoon Robots  Nat Geo Kids3.ts
+#EXTINF:6.757200,
+Cartoon Robots  Nat Geo Kids4.ts
+#EXT-X-ENDLIST
