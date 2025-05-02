@@ -1,0 +1,17 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:10.200000,
+The Planets  Nat Geo Kids Solar System Playlist0.ts
+#EXTINF:10.200000,
+The Planets  Nat Geo Kids Solar System Playlist1.ts
+#EXTINF:10.200000,
+The Planets  Nat Geo Kids Solar System Playlist2.ts
+#EXTINF:10.200000,
+The Planets  Nat Geo Kids Solar System Playlist3.ts
+#EXTINF:10.200000,
+The Planets  Nat Geo Kids Solar System Playlist4.ts
+#EXTINF:9.300000,
+The Planets  Nat Geo Kids Solar System Playlist5.ts
+#EXT-X-ENDLIST
